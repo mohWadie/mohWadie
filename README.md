@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohWadie
-- 👀 I’m interested in .Net Programming
-- 🌱 I’m currently learning DevExpress
+- 👀 I’m .Net Developer
+- 🌱 I’m currently learning nodejs
 - 📫 How to reach me??  ==> Using this Email: mohdev99@gmail.com
 
 <!---
